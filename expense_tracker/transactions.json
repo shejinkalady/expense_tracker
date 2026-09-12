@@ -1,0 +1,23 @@
+[
+    {
+        "date": "12-09-2026 19:26",
+        "type": "Income",
+        "category": "Grocery",
+        "amount": 648.0,
+        "note": "mine"
+    },
+    {
+        "date": "12-09-2026 19:26",
+        "type": "Income",
+        "category": "Food",
+        "amount": 33.0,
+        "note": ""
+    },
+    {
+        "date": "12-09-2026 19:27",
+        "type": "Expense",
+        "category": "Food",
+        "amount": 10.0,
+        "note": "tea"
+    }
+]
